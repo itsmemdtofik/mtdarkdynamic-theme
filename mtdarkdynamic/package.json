@@ -1,0 +1,21 @@
+{
+  "name": "mtdarkdynamic",
+  "displayName": "mtdarkdynamic",
+  "description": "mt-dark-dynamic theme!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "mtdarkdynamic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mtdarkdynamic-color-theme.json"
+      }
+    ]
+  }
+}
